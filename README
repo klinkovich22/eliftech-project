@@ -1,0 +1,14 @@
+To run the program, perform the following actions:
+
+    1. Clone this repository to your device.
+    2. Ensure that mongod is installed on your device and its status is active.
+    3. Open the project in Visual Studio.
+    4. Open the terminal and split it into two sections.
+    5. In the first section, open ./server
+      5.1. Run the command npm install
+      5.2. Run the command node ./src/testData.js (to populate with initial data)
+      5.3. Run the command npm start
+    6. In the second section, open ./client
+      6.1. Run the command npm install
+      6.2. Run the command npm start
+From this you can use program
