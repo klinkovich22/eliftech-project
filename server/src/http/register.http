@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/api/664c7fddd0240b25b074544c HTTP/1.1
+Content-Type: application/json
+
+{
+  "fullName": "John Doe",
+  "email": "johndoe@gmail.com"
+}

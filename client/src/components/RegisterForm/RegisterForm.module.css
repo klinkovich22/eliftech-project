@@ -1,0 +1,23 @@
+.padding{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.radio-container{
+  display: flex;
+}
+
+.submit{
+  background-color: lightsalmon;
+}
+
+.submit:active{
+  background-color: rgb(183, 104, 73);
+}
